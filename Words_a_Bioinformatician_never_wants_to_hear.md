@@ -1,6 +1,6 @@
 # Words a bioinformatician never wants to hear
 
-> I used to run a blog at bioicodershub.net before, but since I moved all my efforts towards developing coderscrowd.com, I was forced to shut it down. That said I will keep releasing some successful posts that were highly debated because they reflects the reality of a day to day data scientists work. THis is one of these famous posts, originally shared by Paul Michael Agapow
+> I used to run a blog at biocodershub.net before, but since I moved all my efforts towards developing coderscrowd.com, I was forced to shut it down. That said I will keep releasing some successful posts that were highly debated because they reflect the reality of a day to day data scientists work. THis is one of these famous posts, originally shared by Paul Michael Agapow [@agapow](https://twitter.com/agapow)
 
 
 Something cynical for a rainy Friday at the end of a long week :^)
@@ -53,4 +53,6 @@ Something cynical for a rainy Friday at the end of a long week :^)
 (After being told that an analysis is impossible or ill-considered) “But X over in Y’s lab does it all the time.”
 
 “Uh, so what is it that you’re doing again?”
+
+**PR at [Github](https://github.com/radaniba/CodersCrowd-Thoughts/blob/master/Words_a_Bioinformatician_never_wants_to_hear.md) or comment [here](http://blog.coderscrowd.com/words-a-bioinformatician-never-wants-to-hear/)  , and your contribution will be added to the post, Thanks**
 
