@@ -8,19 +8,23 @@ One important feature is that you can easily pick a subject of your choice from 
 
 This is an example of what you see when you login 
 
-{<1>}![dashboard](http://coderscrowd.com/blog/images/dash2.png)
+1 
+![dashboard](http://coderscrowd.com/blog/images/dash2.png)
 
 You can sort this by `language` by clicking on : language
 
-{<2>}![dashboard](http://coderscrowd.com/blog/images/dash3.png)
+2 
+![dashboard](http://coderscrowd.com/blog/images/dash3.png)
 
 Or you can sort it by `status` focusing on pending codes which means that the code is not solved yet
 
-{<3>}![dashboard](http://coderscrowd.com/blog/images/dash4.png)
+3
+![dashboard](http://coderscrowd.com/blog/images/dash4.png)
 
 Or you can sort by the number of posted `solutions` 
 
-{<4>}![dashboard](http://coderscrowd.com/blog/images/dash5.png)
+4
+![dashboard](http://coderscrowd.com/blog/images/dash5.png)
 
 We have some recommendations though :
 
@@ -30,7 +34,8 @@ We have some recommendations though :
 
 When you select the code to be fixed, now comes the serious business. Click on the code and hit `click here to add solution` you will come to a page similar to the one below and that I will describe in details :
 
-{<5>}![solve](http://coderscrowd.com/blog/images/solve.png)
+5
+![solve](http://coderscrowd.com/blog/images/solve.png)
 
 
 * **1** shows an idea on the problem holder (number of contributions and how many coders he helped)  
